@@ -23,7 +23,7 @@ class add
 main()
 {
 	add a;
-	add a1;
+	add a1(20,15);
 	
 	a.display();
 	a1.display();
